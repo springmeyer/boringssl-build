@@ -2,6 +2,8 @@
 
 Build boringssl, which is an openssl alternative from google: https://www.imperialviolet.org/2014/06/20/boringssl.html
 
+[![Build Status](https://travis-ci.org/springmeyer/boringssl-build.svg?branch=master)](https://travis-ci.org/springmeyer/boringssl-build)
+
 I've not found formal instructions on using boringssl outside of chromium, but here's what I've learned through a few minutes of experimentation:
 
  - Boringssl source code appears to live at <https://boringssl.googlesource.com/boringssl>
